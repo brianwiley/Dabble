@@ -1,0 +1,13 @@
+{
+  "name": "Dabble",
+  "short_name": "Dabble",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#DCE4FF",
+  "theme_color": "#DCE4FF",
+  "icons": [
+    { "src": "icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" }
+  ]
+}
